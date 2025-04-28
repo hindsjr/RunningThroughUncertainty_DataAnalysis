@@ -48,6 +48,6 @@ Training volumes dropped modestly after March 2020, with major race preparations
 3. Run the Jupyter Notebook to visualize results and summary plots.
 
 ## Acknowledgments
-Running activity data and COVID-19 Stringency Index data sourced ```https://www.kaggle.com/datasets/mexwell/long-distance-running-dataset```
-Additional resources: 
-- https://ourworldindata.org/metrics-explained-covid19-stringency-index
+- Running activity data and COVID-19 Stringency Index data sourced ```https://www.kaggle.com/datasets/mexwell/long-distance-running-dataset```
+- Additional resources: 
+    - https://ourworldindata.org/metrics-explained-covid19-stringency-index

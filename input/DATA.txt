@@ -1,0 +1,22 @@
+Download dataset from: https://www.kaggle.com/datasets/mexwell/long-distance-running-dataset (about 2.2 GB)
+
+-- Command line:
+
+> pip install kaggle
+
+Go to your Kaggle account → Settings → Create API Token
+
+Save the downloaded kaggle.json
+
+Setup Kaggle Envirement:
+> mkdir -p ~/.kaggle
+> mv kaggle.json ~/.kaggle/
+> chmod 600 ~/.kaggle/kaggle.json
+
+Download data:
+> kaggle datasets download -d mexwell/long-distance-running-dataset
+
+-- From Web:
+Go to https://www.kaggle.com/datasets/mexwell/long-distance-running-dataset
+Click "Download"
+Open zip file in input/ folder
